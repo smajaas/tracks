@@ -1,5 +1,7 @@
 import React from 'react';
-import { View, StyleSheet, Text } from 'react-native';
+import { StyleSheet } from 'react-native';
+import { Text } from 'react-native-elements'
+import Map from '../components/Map'
 
 const TrackCreateScreen = () => {
     return (
